@@ -10,7 +10,7 @@
         "nodes": {
             "lower-case": "lower-case.js"
         }
-    }
+    },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zenakguy/Node-Red-Example.git"
