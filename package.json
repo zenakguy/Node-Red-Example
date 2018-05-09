@@ -1,0 +1,27 @@
+{
+  "name": "node-red-contrib-example-lower-case",
+  "version": "1.0.0",
+  "description": "Lower Case conversion Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+      "node-red" : {
+        "nodes": {
+            "lower-case": "lower-case.js"
+        }
+    }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zenakguy/Node-Red-Example.git"
+  },
+  "keywords": [
+    "Node-Red"
+  ],
+  "author": "Eric Anderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zenakguy/Node-Red-Example/issues"
+  },
+  "homepage": "https://github.com/zenakguy/Node-Red-Example#readme"
+}
